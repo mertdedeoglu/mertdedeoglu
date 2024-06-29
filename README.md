@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+---
+My name is Mert 😊
+
+I am Backend Software Developer
 
 <!--
 **mertdedeoglu/mertdedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
